@@ -1,0 +1,37 @@
+body{
+    background-image: url(../../images/img9.jpg) ;
+	background-attachment: fixed;
+    background-size: cover;	
+}
+.fondu-out {
+    opacity: 0;
+    transition: opacity 3s ease-out;
+}
+
+#introsec{
+
+	margin-bottom: 20px;
+    font-size:45px;
+	font-weight:normal;
+	text-align:center;
+	color:black;
+	font-weight: bolder;
+
+}
+#introsec2{
+    font-size:35px;
+	font-weight:normal;
+	text-align:center;
+	color:black;
+	font-weight: bolder;
+
+}
+
+#box{ 
+margin: auto;
+margin-top: 100px;
+padding-top: 2px;
+height: 130px;
+width: 435px;
+text-align:center;
+}

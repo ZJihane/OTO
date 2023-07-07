@@ -1,0 +1,17 @@
+
+body{
+    background-image: url(../../images/img15.jpg) ;
+	background-attachment: fixed;
+    background-size: cover;
+	background-position: center;
+	
+}
+
+
+h1{
+    color : white ;
+}
+.fondu-out {
+    opacity: 0;
+    transition: opacity 3s ease-out;
+}

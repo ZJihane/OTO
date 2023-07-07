@@ -1,0 +1,44 @@
+body{
+    background-image: url(../../images/img10.jpeg) ;
+	background-attachment: fixed;
+    background-size: cover;
+	background-position: center;
+	
+}
+
+.fondu-out {
+    opacity: 0;
+    transition: opacity 2s;
+}
+
+
+
+#introadmin{
+
+	margin-bottom: 20px;
+    font-size:45px;
+	font-weight:normal;
+	text-align:center;
+	color:black;
+	font-weight: bolder;
+
+}
+#introadmin2{
+    font-size:35px;
+	font-weight:normal;
+	text-align:center;
+	color:black;
+	font-weight: bolder;
+
+}
+
+#box{
+margin: auto;
+margin-top: 100px;
+padding-top: 2px;
+height: 180px;
+width: 435px;
+text-align:center;
+}
+
+

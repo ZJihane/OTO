@@ -1,0 +1,23 @@
+body{
+    background-image: url(../../images/img7.jpg) ;
+	background-attachment: fixed;
+    background-size: cover;	
+}
+.fondu-out {
+    opacity: 0;
+    transition: opacity 3s ease-out;
+}
+#aproo{
+   
+    font-size:20px;
+	font-weight:bold;
+    width: 90%;
+    padding: 20px;
+    border: 8px solid black;
+    border-radius: 13px;
+    background-color: #8a888285 ;
+    margin: auto;
+    margin-top: 100px;
+    
+	
+}

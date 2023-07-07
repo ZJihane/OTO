@@ -1,0 +1,23 @@
+body{
+    background-image: url(../../images/img9.jpg) ;
+	background-attachment: fixed;
+    background-size: cover;
+
+}
+.fondu-out {
+    opacity: 0;
+    transition: opacity 3s ease-out;
+}
+fieldset{
+	border-radius: 13px;
+	border:5px  solid rgb(61, 44, 44);
+	color:black;
+	font-size: 18px;
+	padding: 18px;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 10px;
+	width: 50%;
+	font-weight: bold;
+
+}

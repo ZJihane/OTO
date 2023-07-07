@@ -1,0 +1,57 @@
+body{
+    background-image: url(../../images/img7.jpg) ;
+	background-attachment: fixed;
+    background-size: cover;	
+}
+
+
+.fondu-out {
+    opacity: 0;
+    transition: opacity 3s ease-out;
+}
+fieldset{
+	border-radius: 13px;
+	border:5px  solid rgb(61, 44, 44);
+	color:black;
+	font-size: 140%;
+	padding: 18px;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 10px;
+	width: 50%;
+	
+	font-weight: bold;
+    background-color: #8a888285;
+}
+
+
+
+
+#introh1{
+
+	margin-bottom: 20px;
+    font-size:50px;
+	font-weight:normal;
+	text-align:center;
+	color:black;
+	font-weight: bolder;
+
+}
+#introh2{
+    font-size:20px;
+	font-weight:normal;
+	text-align:center;
+	color:black;
+	font-weight: bolder;
+
+}
+
+#box{ 
+margin: auto;
+margin-top: 100px;
+padding-top: 2px;
+height: 260px;
+width: 435px;
+text-align:center;
+background-color: #8a888285 ;
+}
